@@ -1,10 +1,5 @@
 # Project Overview
 
-## Project Schedule
-
-This schedule will be used to keep track of your progress throughout the week and align with our expectations.
-
-You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
 
 ## Project Description
 
@@ -63,15 +58,11 @@ Helper functions should be generic enought that they can be reused in other appl
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project.
 
-## Code Snippet
-
+## Code Snippet  
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description.
 
-## jQuery Discoveries
- Use this section to list some, but not all, of the jQuery methods and\or functionality discovered while working on this project.
-
-## Change Log
- Use this section to document what changes were made and the reasoning behind those changes.
+## Javscript Discoveries
+ Use this section to list some, but not all, of the Javascript methods and\or functionality discovered while working on this project.
 
 ## Issues and Resolutions
  Use this section to list of all major issues encountered and their resolution.
