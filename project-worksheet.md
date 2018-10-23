@@ -5,9 +5,6 @@
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
-## Priority Matrix
-
-Include a full list of features that have been prioritized based on the `Time and Importance` Matix.
 
 ## MVP
 
